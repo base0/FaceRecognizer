@@ -1,6 +1,6 @@
 ## FaceRecognizer
 
-A face recognition algorithm written in Python.  From https://github.com/SnShine/FaceRecognizer
+A face recognition algorithm written in Python.  From https://github.com/SnShine/FaceRecognizer but edit the code for Raspbian 10.
 
 Real-Time detection & prediction of subjects/persons in video recording with built-in camera.
 
