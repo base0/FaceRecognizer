@@ -1,6 +1,6 @@
 ## FaceRecognizer
 
-A face recognition algorithm written in Python.
+A face recognition algorithm written in Python.  From https://github.com/SnShine/FaceRecognizer
 
 Real-Time detection & prediction of subjects/persons in video recording with built-in camera.
 
